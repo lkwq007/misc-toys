@@ -1,0 +1,15 @@
+[submodule "compiler/tiger-compiler"]
+	path = compiler/tiger-compiler
+	url = https://github.com/lkwq007/tiger-compiler
+[submodule "graphics/Image-Registration"]
+	path = graphics/Image-Registration
+	url = https://github.com/lkwq007/Image-Registration
+[submodule "graphics/Minecraft-OpenGL"]
+	path = graphics/Minecraft-OpenGL
+	url = https://github.com/lkwq007/Minecraft-OpenGL
+[submodule "network/SocketClient"]
+	path = network/SocketClient
+	url = https://github.com/lkwq007/SocketClient
+[submodule "network/SocketServer"]
+	path = network/SocketServer
+	url = https://github.com/lkwq007/SocketServer
