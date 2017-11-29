@@ -13,3 +13,15 @@
 [submodule "network/SocketServer"]
 	path = network/SocketServer
 	url = https://github.com/lkwq007/SocketServer
+[submodule "online-judge/PAT-Advanced-Level"]
+	path = online-judge/PAT-Advanced-Level
+	url = https://github.com/lkwq007/PAT-Advanced-Level
+[submodule "online-judge/PAT-Basic-Level"]
+	path = online-judge/PAT-Basic-Level
+	url = https://github.com/lkwq007/PAT-Basic-Level
+[submodule "online-judge/LeetCode-Go"]
+	path = online-judge/LeetCode-Go
+	url = https://github.com/lkwq007/LeetCode-Go
+[submodule "fpga/Sokoban-FPGA"]
+	path = fpga/Sokoban-FPGA
+	url = https://github.com/lkwq007/Sokoban-FPGA
