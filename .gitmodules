@@ -25,3 +25,6 @@
 [submodule "fpga/Sokoban-FPGA"]
 	path = fpga/Sokoban-FPGA
 	url = https://github.com/lkwq007/Sokoban-FPGA
+[submodule "system/how-does-debugger-work"]
+	path = system/how-does-debugger-work
+	url = https://github.com/lkwq007/how-does-debugger-work
