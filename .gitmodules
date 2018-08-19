@@ -31,3 +31,6 @@
 [submodule "compiler/rockstar-ml"]
 	path = compiler/rockstar-ml
 	url = https://github.com/lkwq007/rockstar-ml
+[submodule "network/simple-http-server"]
+	path = network/simple-http-server
+	url = https://github.com/lkwq007/simple-http-server
