@@ -28,3 +28,6 @@
 [submodule "system/how-does-debugger-work"]
 	path = system/how-does-debugger-work
 	url = https://github.com/lkwq007/how-does-debugger-work
+[submodule "compiler/rockstar-ml"]
+	path = compiler/rockstar-ml
+	url = https://github.com/lkwq007/rockstar-ml
